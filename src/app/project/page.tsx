@@ -12,7 +12,7 @@ export default function Home() {
   };
 
   const projectData = {
-    html: ['Html1', 'Html2', 'Html3', 'Html4', 'html5'],
+    html: ['html1', 'html2', 'html3', 'html4', 'html5'],
     js: ['js1', 'js2', 'js3', 'js4'],
     ts: ['Types1', 'types2'],
     react: ['React1'],
