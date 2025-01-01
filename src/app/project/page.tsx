@@ -78,7 +78,7 @@ export default function Home() {
             <div key={index} className="project-box w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5">
               <a href="#" className="block rounded-lg shadow-lg overflow-hidden transition transform hover:scale-105">
                 <Image
-                  src={`${img}.png`}
+                  src={`${img}.PNG`}
                   alt="HTML Project"
                   className="w-full h-full object-cover"
                 />
@@ -89,7 +89,7 @@ export default function Home() {
             <div key={index} className="project-box w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5">
               <a href="#" className="block rounded-lg shadow-lg overflow-hidden transition transform hover:scale-105">
                 <Image
-                  src={`${img}.png`}
+                  src={`${img}.PNG`}
                   alt="JS Project"
                   className="w-full h-full object-cover"
                 />
@@ -111,7 +111,7 @@ export default function Home() {
             <div key={index} className="project-box w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5">
               <a href="#" className="block rounded-lg shadow-lg overflow-hidden transition transform hover:scale-105">
                 <Image
-                  src={`${img}.png`}
+                  src={`${img}.PNG`}
                   alt="React Project"
                   className="w-full h-full object-cover"
                 />
