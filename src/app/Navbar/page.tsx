@@ -6,11 +6,10 @@ import Link from 'next/link';
 
 const NavbarMenu = [
     { id: 1, title: 'Home', link: '/' },
-    { id: 2, title: 'About', link: '/' },
-    { id: 3, title: 'Skill', link: '/' },
-    { id: 4, title: 'My Journey', link: '/' },
-    { id: 5, title: 'Projects', link: '/' },
-    { id: 6, title: 'Contacts', link: '/' }, 
+    { id: 2, title: 'About', link: '/About' },
+    { id: 3, title: 'Skill', link: 'Skill/' },
+    { id: 5, title: 'Projects', link: '/project' },
+    { id: 6, title: 'Contacts', link: '/Contact' }, 
 ];
 
 function Navbar() {
