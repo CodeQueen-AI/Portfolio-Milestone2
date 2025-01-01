@@ -14,7 +14,6 @@ const ResponsiveMenu: React.FC<ResponsiveMenuProps> = ({ open, toggleMenu }) => 
                     <li><Link href="/Hero" onClick={toggleMenu}>Home</Link></li>
                     <li><Link href="/About" onClick={toggleMenu}>About</Link></li>
                     <li><Link href="/Skill" onClick={toggleMenu}>Skill</Link></li>
-                    <li><Link href="/Journey" onClick={toggleMenu}>My Journey</Link></li>
                     <li><Link href="/project" onClick={toggleMenu}>Projects</Link></li>
                     <li><Link href="/Contact" onClick={toggleMenu}>Contact</Link></li>
                 </ul>
